@@ -1,2 +1,0 @@
-# TurkeyVekil
-Vekil için şablonlar
