@@ -1,6 +1,12 @@
 { "comment": "",
 
-"MerkezFransa": {
+"TrMerkezPlan": {
+  "name": "tr_plan.png",
+  "x": 701,  "y": -507,
+  "width": 808, "height": 667
+}
+
+"FransaMerkezBayrak": {
   "name": "fr_merkezbayrak.png",
   "x": 921,  "y": -714,
   "width": 283, "height": 204
