@@ -12,6 +12,12 @@
   "width": 273, "height": 155
 }
 
+,"Discord": {
+  "name": "tr_discord.png",
+  "x": -4096,  "y": 3220,
+  "width": 522, "height": 75
+}
+
 ,"Bayrak": {
   "name": "tr_bayrak.png",
   "x": -4096,  "y": 3295,
