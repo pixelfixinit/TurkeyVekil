@@ -36,7 +36,13 @@
   "width": 607, "height": 281
 }
 
-,"FransaMerkezBayrak": {
+,"SiyahSancak": {
+  "name": "ss_merkez.png",
+  "x": 921,  "y": -714,
+  "width": 172, "height": 104
+}
+
+,"Fransa": {
   "name": "fr_merkezbayrak.png",
   "x": 921,  "y": -714,
   "width": 283, "height": 204
