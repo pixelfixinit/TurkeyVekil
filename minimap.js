@@ -1,15 +1,15 @@
 // ==UserScript==
 // @name         TurkeyMap v2
 // @namespace    http://tampermonkey.net/
-// @version      1.7.2
+// @version      0.0.1
 // @description  -
-// @author       meatie and fixi
+// @author       FIXINIT#0878
 // @match        https://pixelzone.io/*
-// @homepage     No home page
-// @updateURL    No update URL
+// @homepage     https://github.com/pixelfixinit/TurkeyVekil
+// @updateURL    https://raw.githubusercontent.com/pixelfixinit/TurkeyVekil/master/minimap.js
 // @grant        none
 // ==/UserScript==
-/*Based on nothing
+/*Based on https://github.com/pixelfixinit/TurkeyVekil
 
 Instructions
 
