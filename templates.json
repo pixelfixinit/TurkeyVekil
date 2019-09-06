@@ -25,7 +25,7 @@
 }
 
 ,"Üst": {
-  "name": "tr_üst.png",
+  "name": "tr_ust.png",
   "x": -4096,  "y": 3067,
   "width": 551, "height": 153
 }
@@ -42,10 +42,9 @@
   "width": 172, "height": 104
 }
 
-,"Fransa": {
-  "name": "fr_merkezbayrak.png",
-  "x": 921,  "y": -714,
-  "width": 283, "height": 204
+,"AzePlan": {
+  "name": "aze_plan.png",
+  "x": -2739,  "y": 2981,
+  "width": 2239, "height": 1116
 }
 
-}
